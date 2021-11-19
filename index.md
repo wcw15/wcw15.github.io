@@ -1,14 +1,20 @@
-## About Me
-
-I am a postdoctoral fellow at MOE Key Laboratory of Computational Linguistics, School of EECS, Peking University, supervised by Prof. Sui Zhifang.
-
-Before that, I was a PhD student in Institute for Big Data and Language Education, Beijing Language and Culture University under the guidance of Prof. Xun Endong.
-
-My research interests lie within Natural Language Understanding, Language Engineering and Knowledge Extraction. I'm also involved in Natural Language Processing Evaluation like dataset quality evaluation.
-
-1. Numbered
-2. List
-
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>About Me</h1>
+      <p><b>I am a postdoctoral fellow at MOE Key Laboratory of Computational Linguistics, School of EECS, Peking University, supervised by Prof. Sui Zhifang.
+</b></p>
+      <p><b>Before that, I was a PhD student in Institute for Big Data and Language Education, Beijing Language and Culture University under the guidance of Prof. Xun Endong.
+</b></p>
+      <p><b>My research interests lie within Natural Language Understanding, Language Engineering and Knowledge Extraction. I'm also involved in Natural Language Processing Evaluation like dataset quality evaluation.
+</b></p>
+      <p><b>Email:chengwen_wang15@126.com</b></p>
+    </td>
+    <td width="15%">
+      <img src="/微信图片_20211119145041.jpg" width="100%">      
+    </td>
+  </tr>
+</table>
 ## 学习经历
 
 ## 获奖情况
