@@ -1,6 +1,6 @@
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="85%">
       <h1>About Me</h1>
       <p><b>I am a postdoctoral fellow at MOE Key Laboratory of Computational Linguistics, School of EECS, Peking University, supervised by Prof. Sui Zhifang.
 </b></p>
