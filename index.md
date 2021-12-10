@@ -1,30 +1,21 @@
-<table border="0">
-  <tr>
-    <td width="85%">
-      <h1>About Me</h1>
-      <p><b>I am a postdoctoral fellow at MOE Key Laboratory of Computational Linguistics, School of EECS, Peking University, supervised by Prof. Sui Zhifang.
-</b></p>
-      <p><b>Before that, I was a PhD student in Institute for Big Data and Language Education, Beijing Language and Culture University under the guidance of Prof. Xun Endong.
-</b></p>
-      <p><b>My research interests lie within Natural Language Understanding, Language Engineering and Knowledge Extraction. I'm also involved in Natural Language Processing Evaluation like dataset quality evaluation.
-</b></p>
-      <p><b>Email:chengwen_wang15@126.com</b></p>
-    </td>
-    <td width="15%">
-      <img src="/微信图片_20211119145041.jpg" width="100%">      
-    </td>
-  </tr>
-</table>
+## About Me
+
+I am a postdoctoral fellow at MOE Key Laboratory of Computational Linguistics, School of EECS, Peking University, supervised by Prof. Sui Zhifang.
+
+Before that, I was a PhD student in Institute for Big Data and Language Education, Beijing Language and Culture University under the guidance of Prof. Xun Endong.
+My research interests lie within Natural Language Understanding, Language Engineering and Knowledge Extraction. I'm also involved in Natural Language Processing Evaluation like dataset quality evaluation.
+
+Email:chengwen_wang15@126.com
+
 ## 学习经历
 
 ## 获奖情况
-[1]2020.10，获得北京语言大学博士研究生国家奖学金
+1. 2021.12，获得北京语言大学青年五四奖章
+2. 2020.10，获得北京语言大学博士研究生国家奖学金
+3. 2019.10，获得北京语言大学研究生学业奖学金一等
+4. 2019.06，论文“基于语料库的简单定心语块抽取研究”获得汉语词汇语义学国际研讨会优秀论文奖
+5. 2018.12，BCC改革开放40周年高校科技创新重大成就（第四贡献人）
 
-[2]2018.12，BCC改革开放40周年高校科技创新重大成就（第四贡献人）
-
-[3]2019.10，获得北京语言大学研究生学业奖学金一等
-
-[4]2019.06，论文“基于语料库的简单定心语块抽取研究”获得汉语词汇语义学国际研讨会优秀论文奖
 
 ## 科研成果
 [1]王诚文,钱青青,荀恩东,邢丹,李梦,饶高琦.(2020).三元搭配视角下的汉语动词语义角色知识库构建. 中文信息学报(09),19-27.
@@ -45,9 +36,5 @@
 
 [9]王诚文,荀恩东.(2019).面向意合图的汉语动词论元知识库(内部)
 
-## Selected Awards and Competitions
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
