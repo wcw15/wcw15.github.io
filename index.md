@@ -5,10 +5,11 @@ I am currently a postdoctoral fellow at MOE Key Laboratory of Computational Ling
 Before that, I was a PhD student in Institute for Big Data and Language Education, Beijing Language and Culture University under the guidance of Prof. Xun Endong.
 My research interests lie within Natural Language Understanding, Language Engineering and Knowledge Extraction. I'm also involved in Natural Language Processing Evaluation like dataset quality evaluation.
 
-Email:chengwen_wang15 (AT) 126.com 
+Email:wangcw(AT)pku.edu.cn 
 
 
 ## Publications
+- **Wang Chengwen**, Dong Qingxiu, Sui Zhifang, et al. 2023 . Research on Quality Evaluation of Natural Language Processing Evaluation Dataset. *Journal of Chinese Information Processing*. (*in Chinese*)
 - **Chengwen Wang**, Qingxiu Dong, Xiaochen Wang, Haitao Wang and Zhifang Sui. 2022. Statistical Dataset Evaluation: Reliability, Difficulty, and Validity. arXiv:2212.09272, 2022. [[arXiv](https://arxiv.org/abs/2212.09272)]
 - **Chengwen Wang** and Endong Xun. 2022. Research on the Construction of Non-subject-object Argument Knowledge Base of Chinese Verbs. In *Proceedings of IALP 2022*. [[paper](https://ieeexplore.ieee.org/abstract/document/9961281)]
 - **Chengwen Wang**, Gaoqi Rao, Endong Xun and Zhifang Sui. 2022. Chunk Extraction and Analysis Based on Frame-Verbs. In *Proceedings of CLSW 2021*. [[paper](https://doi.org/10.1007/978-3-031-06703-7_32)] 
